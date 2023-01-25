@@ -1,0 +1,45 @@
+* {
+    color: #17053a;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: #f3f5fc;
+}
+
+.App {
+    background-color: white;
+    margin: 25%;
+    padding: 10%;
+    border-radius: 3%;
+}
+
+.todolist {
+    background-color: cyan ;
+}
+
+.left {
+    background-color: violet;
+}
+
+.middle {
+    background-color: blue;
+    display: flex;
+    align-items: center;
+}
+
+button {
+    background-color: #17053a;
+    border: none;
+    color: white;
+    border-radius: 3%;
+    padding: 10px;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+}
+
+input {
+    background-color: rgb(239, 242, 251);
+    border: none;
+}
